@@ -11,7 +11,7 @@ comments: true
 I recently had a User inquire about how to retrieve Upcoming Invoices in Stripe Sigma.
 The User was essentially asking how to perform the API command below but in Stripe Sigma.
 
-https://stripe.com/docs/api/invoices/upcoming
+[https://stripe.com/docs/api/invoices/upcoming]
 
 If you open the Sigma Schema docs in your Stripe Dashboard you can find an 'Invoices' table 
 that includes a column "billing_reason" with type Varchar. The documentation states: The 'upcoming'
