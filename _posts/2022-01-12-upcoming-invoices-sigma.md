@@ -2,7 +2,6 @@
 layout: post
 title: Upcoming Invoices in Stripe Sigma
 subtitle: Upcoming Invoices are not stored in Stripe Sigma
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [SQL]
 comments: true
