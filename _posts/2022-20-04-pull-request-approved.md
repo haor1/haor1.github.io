@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: Open Source Software Contribution
+subtitle: My pull request was approved and merged in the Stripe CLI repository
 gh-badge: [star, fork, follow]
 tags: [Open Source Software contribution]
 comments: true
