@@ -11,7 +11,7 @@ comments: true
 
 In this tutorial I will guide you through how to add one of the missing events to the Stripe CLI so that they may be triggered on-demand.
 
-Step 1: Go to the "Stripe-completion.bash" file in the main directory of the Stripe CLI repository (https://github.com/stripe/stripe-cli). This file needs to be updated with the following line:
+Step 1: Go to the "Stripe-completion.bash" file in the main directory of the Stripe CLI repository [https://github.com/stripe/stripe-cli](https://github.com/stripe/stripe-cli). This file needs to be updated to include the following line:
 
 ~~~
 must_have_one_noun+=("event_you_would_like_to_add_here")
