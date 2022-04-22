@@ -56,6 +56,6 @@ Here is what the file includes for the event I added to the Stripe CLI ‘report
 ~~~
 
 
-I plan to add several more of the missing events to the Stripe CLI, however, I won't be able to add all of them, which is why we need other people to contribute to this project. If you are following this tutorial and you experience any difficulty, feel free to reach out to me via email at hotero001@icloud.com and I would be happy to answer any questions.
+I plan to add several more of the missing events to the Stripe CLI, however, I won't be able to add all of them, which is why we need other people to contribute to this project. If you are following this tutorial and you experience any difficulty, feel free to reach out to me via email at "hotero001 at icloud.com" and I would be happy to answer any questions.
 
 
