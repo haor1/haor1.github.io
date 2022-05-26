@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: How to add a missing event to the Stripe-CLI
+title: Tutorial - How to add a missing event to the Stripe-CLI
 subtitle: Submitting an Open Source Contribution to the Stripe CLI
 gh-badge: [star, fork, follow]
 tags: [Open Source Software contribution]
